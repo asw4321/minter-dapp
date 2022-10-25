@@ -1,9 +1,9 @@
-const contractAddress = "YOUR CONTRACT ADDRESS"; // Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
+const contractAddress = "0x39E240690f7849Ec8dA79697Ca2c770DB3282EB9"; // Replace with your own contract address
+const chain = 'goerli'; // goerli, polygon, or ethereum
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "Welcome to the Floaty Tatoes: Spooky Tatoes 2022 Limited Edition Collection!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'The Floaty Tatoes are an NFT collection designed to have fun and support Manatee Rescue. 10% of all sales and royalties go to Manatee rescue efforts!';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
@@ -18,5 +18,5 @@ const button_presale_coming_soon = "Get on the Whitelist";
 const button_presale_mint_whitelisted = "Mint Your Special NFT";
 const button_presale_mint_not_whitelisted = "Get on the Whitelist";
 const button_presale_already_minted = "Join The Community";
-const button_public_mint = "Mint Your NFT";
+const button_public_mint = "Mint Your Spooky Tato!";
 const mint_failed = "Minting failed. 😢 Please try again.";
