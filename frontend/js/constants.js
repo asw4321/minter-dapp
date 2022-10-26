@@ -5,7 +5,7 @@ const contractAddress = "YOUR CONTRACT ADDRESS"; // Replace with your own contra
 >>>>>>> 94344d073ddffa6c9eb12ae9ff06d4fb94cfdc6e
 const chain = 'goerli'; // goerli, polygon, or ethereum
 
-const welcome_h1 = "Welcome to the Floaty Tatoes: Spooky Tatoes 2022 Limited Edition Collection!";
+const welcome_h1 = "Welcome to the Floaty Tatoes: Spooky Tatoes 2022 Limited Edition Collection!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'The Floaty Tatoes are an NFT collection designed to have fun and support Manatee Rescue. 10% of all sales and royalties go to Manatee rescue efforts!';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
