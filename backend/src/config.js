@@ -257,6 +257,7 @@ const LIMIT = 2; // Your API key rate limit
 const CHAIN = 'goerli'; // only goerli, polygon, or ethereum
 
 // REQUIRED CONTRACT DETAILS THAT CANNOT BE UPDATED LATER!
+<<<<<<< HEAD
 const CONTRACT_NAME = 'floatytatoesc.xyz';
 const CONTRACT_SYMBOL = 'FLT';
 const METADATA_UPDATABLE = false; // set to false if you don't want to allow metadata updates after minting
@@ -264,6 +265,15 @@ const OWNER_ADDRESS = '0x4C9153d83DE347F4C5f86d1dfA98f3aaDe802D59';
 const TREASURY_ADDRESS = '0x4C9153d83DE347F4C5f86d1dfA98f3aaDe802D59';
 const MAX_SUPPLY = 1000; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
 const MINT_PRICE = 0.001; // Minting price per NFT. Goerli = ETH, Ethereum = ETH, Polygon = MATIC. CANNOT BE UPDATED!
+=======
+const CONTRACT_NAME = 'CRYPTOPUNKS';
+const CONTRACT_SYMBOL = 'CP';
+const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
+const OWNER_ADDRESS = 'YOUR WALLET ADDRESS HERE';
+const TREASURY_ADDRESS = 'YOUR WALLET ADDRESS HERE';
+const MAX_SUPPLY = 5000; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
+const MINT_PRICE = 0.01; // Minting price per NFT. Goerli = ETH, Ethereum = ETH, Polygon = MATIC. CANNOT BE UPDATED!
+>>>>>>> 94344d073ddffa6c9eb12ae9ff06d4fb94cfdc6e
 const TOKENS_PER_MINT = 10; // maximum number of NFTs a user can mint in a single transaction. CANNOT BE UPDATED!
 
 // REQUIRED CONTRACT DETAILS THAT CAN BE UPDATED LATER.
