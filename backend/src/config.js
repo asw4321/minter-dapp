@@ -188,7 +188,7 @@ const layerConfigurations = [
       { name: "Background" },
       { name: "Moon" },
       { name: "Bubbles" },
-      { name: "Mermatee Costume" },
+      { name: "Vampire Costume" },
       { name: "Fren Special" },
       { name: "Candy" },
       { name: "Treat Bag" },
