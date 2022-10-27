@@ -1,15 +1,16 @@
 /* FONTS */
 
 @import url(<style>
-@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Black+And+White+Picture&family=Fredoka+One&family=Fredoka:wght@300;400;500;600;700&family=Indie+Flower&family=Paytone+One&family=Permanent+Marker&family=Righteous&family=Shadows+Into+Light&display=swap');
+@import url(<style>
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Black+And+White+Picture&family=Fredoka+One&family=Fredoka:wght@300;400;500;600;700&family=Indie+Flower&family=Montserrat:wght@200;300&family=Paytone+One&family=Permanent+Marker&family=Righteous&family=Shadows+Into+Light&display=swap");
 </style>);
 
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Poppins", sans-serif;
-  --font-secondary: "Arvo", serif;
-  --font-code: "Roboto", monospace;
+  --font-primary: "Black And White", sans-serif;
+  --font-secondary: "Indie Flower", serif;
+  --font-code: "Montserrat", monospace;
   --bg-color: #0066cc;
   --bg-color-transparent: #00163f80;
   --font-color: #ffffff;
