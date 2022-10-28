@@ -1,5 +1,5 @@
-const contractAddress = "0x6De3063dAffA880e02d99DBf045b7b991925f4BA"; // Replace with your own contract address
-const chain = 'goerli'; // goerli, polygon, or ethereum
+const contractAddress = "0x872F6C1EC8040Ec2Bc2A3cE3b6E9B8Ce65e5C0C2"; // Replace with your own contract address
+const chain = 'polygon'; // goerli, polygon, or ethereum
 
 const welcome_h1 = "Welcome to the Floaty Tatoes: Spooky Tatoes 2022 Limited Edition Collection!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
