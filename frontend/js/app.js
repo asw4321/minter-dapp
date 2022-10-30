@@ -318,7 +318,7 @@ async function mint() {
         .send({ from: window.address, value: value.toString(), maxPriorityFeePerGas: null, maxFeePerGas: null });
       if(mintTransaction) {
         if(chain === 'polygon') {
-          const url = `https://polygonscan.com/tx/${presaleMintTransaction.transactionHash}`;
+          const url = `https://polygonscan.com/tx/${publicMintTransaction.transactionHash}`;
           const mintedContainer = document.querySelector('.minted-container');
           const countdownContainer = document.querySelector('.countdown');
           const mintedTxnBtn = document.getElementById("mintedTxnBtn");
